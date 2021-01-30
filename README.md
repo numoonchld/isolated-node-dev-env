@@ -20,6 +20,8 @@
 `npm install --save-dev nodemon`
     - installs nodemon for hot reload of npm app
 
+- [Create 'Hello World' ExpressJS app](https://expressjs.com/en/starter/hello-world.html)
+
 ### Development Server 
 
 `npm start`
